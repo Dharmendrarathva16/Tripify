@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218919641656",
+    "project_id": "tripspot-e9e48",
+    "storage_bucket": "tripspot-e9e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218919641656:android:506c6eda8cb9755106fccd",
+        "android_client_info": {
+          "package_name": "com.example.tripspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGjud8NGiqgA2yQ_jb2Zp0ERXpDIKse4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
